@@ -1,0 +1,7 @@
+{
+  "name": "Trabalho-bluetooth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
